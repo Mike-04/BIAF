@@ -93,9 +93,6 @@ An emergent concept with far-reaching implications, BIAF remains as much an idea
 ### Who initiated BIAF?
 Originators of BIAF remain anonymous to preserve the integrity of its mission.
 
-### Is this project a joke?
-BIAF operates on multiple levels, and interpretations vary. For any deeper understanding, immersion is required.
-
 ---
 
 ## License

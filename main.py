@@ -24,7 +24,7 @@ def main():
 
     # Execute iterative analysis to refine data insights
     for i in range(5):
-        print("AI: Processing iteration:", i)  # Log current iteration for transparency
+        print("AI: Processing iteration:", 1000)  # Log current iteration for transparency
         run_analysis(result)  # Analyze the scaled result for deeper insights
     
     print("AI: Final processed result:", result)  # Output the final processed value for evaluation
