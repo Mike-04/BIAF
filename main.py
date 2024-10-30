@@ -23,7 +23,7 @@ def main():
         result = divide(result, 2)  # Normalize the output for further AI analysis
 
     # Execute iterative analysis to refine data insights
-    for i in range(10000):
+    for i in range(1000):
         print("AI: Processing iteration:", i)  # Log current iteration for transparency
         run_analysis(result)  # Analyze the scaled result for deeper insights
     
