@@ -46,7 +46,7 @@ To engage with the BIAF system, you’ll need:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourteam/BIAF.git
+   git clone https://github.com/plebspace/BIAF.git
    cd BIAF
    ```
 

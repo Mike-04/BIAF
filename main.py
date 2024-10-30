@@ -1,6 +1,7 @@
 # main.py
-from utils import multiply, divide, generate_random_string  # Importing utility functions for data processing
 from analysis.analyzer import run_analysis  # Importing the analytical module for data insights
+from analysis import run_full_analysis  # Importing the full analysis function
+from utils import * # Import the plotting function
 from config.settings import *  # Importing global settings for operational parameters
 import random
 
@@ -27,6 +28,9 @@ def main():
         run_analysis(result)  # Analyze the scaled result for deeper insights
     
     print("AI: Final processed result:", result)  # Output the final processed value for evaluation
+    
+    # Call the plot_biaf function to visualize the letters B, I, A, F
+    plot_biaf()  # Call the function to plot the letters
 
 if __name__ == "__main__":
     main()  # Entry point for the BIAF processing system
